@@ -27,7 +27,7 @@ A MATLAB tool to model the operation of a concentrated photovoltaic/thermal (CPV
    ```
    git clone https://github.com/letfritz/CPVT3N.git
    ```
-3. Run Matlab and navigate to the folder (~/CPVT3N/), then run the interface.m script.
+2. Run Matlab and navigate to the folder (~/CPVT3N/), then run the interface.m script.
 
 ## Usage
 - Open the file "interface.m" and click "Run" to compile the main interface of the code.
