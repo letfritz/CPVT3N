@@ -11,6 +11,7 @@
     <img align="center" alt="issues-closed" src="https://img.shields.io/github/issues-closed/letfritz/CPVT3N/total.svg">
     <img align="center" alt="issues-pr" src="https://img.shields.io/github/issues-pr/letfritz/CPVT3N/total.svg">
     <img align="center" alt="issues-pr-closed" src="https://img.shields.io/github/issues-pr-closed/letfritz/CPVT3N/total.svg">
+    <img align="center" alt="issues-pr-closed" src="https://img.shields.io/github/license/letfritz/CPVT3N.svg">
   </div>
 </div><br/>
 
@@ -92,4 +93,17 @@ Free and open-source tool, targeting technical and academic audiences, which can
 ## 🧭 Present and Future use of the Invention
 The combined heat and power tool through the CPV/T collector presented here aims to provide studies estimating the operation of a system composed of a CPV/T module and a reservoir sensitive to the operational conditions of the environment in which the system is deployed. Therefore, cogeneration operation studies with CPV/T and reservoir utilize the iterative model of this tool to depict the production of electrical and thermal energy and the use of the reservoir for providing heated water through reservoir stratification. The findings serve as inputs for CPV/T technology projects, prototype development, and economic feasibility studies. We see this as a promising model with significant future applications, as it allows for a variety of input data and can represent operational conditions of a new technology in the market. The current version already enables users to input data for direct normal radiation, reservoir water consumption, ambient temperature, and suitable water usage temperature over different time horizons.
 
-  
+## Citation
+```
+@article{BORBA2020113383,
+title = {A novel stochastic optimization model to design concentrated photovoltaic/thermal systems: A case to meet hotel energy demands compared to conventional photovoltaic system},
+journal = {Energy Conversion and Management},
+volume = {224},
+pages = {113383},
+year = {2020},
+issn = {0196-8904},
+doi = {https://doi.org/10.1016/j.enconman.2020.113383},
+url = {https://www.sciencedirect.com/science/article/pii/S0196890420309201},
+author = {Bruno S.M.C. Borba and Letícia F. Henrique and Diego C. Malagueta}
+}
+```
